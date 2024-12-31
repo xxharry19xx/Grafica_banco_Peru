@@ -3,8 +3,11 @@
    Presenta la evolución histórica del índice de pobreza utilizando distintos tipos de gráficos lineales.
 
  . Arquitectura:
+ <br/>
    PHP: Para la conexión con el API.
+    <br/>
    JavaScript: Para generar los gráficos interactivos con Highcharts.
+    <br/>
    HTML: Estructura y diseño del front-end.
 
  . Fuentes de Datos
